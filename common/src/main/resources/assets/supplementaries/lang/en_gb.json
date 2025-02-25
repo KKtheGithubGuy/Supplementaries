@@ -433,8 +433,8 @@
   "block.supplementaries.flag_yellow": "Yellow Flag",
   "block.supplementaries.flag_lime": "Lime Flag",
   "block.supplementaries.flag_pink": "Pink Flag",
-  "block.supplementaries.flag_gray": "Gray Flag",
-  "block.supplementaries.flag_light_gray": "Light Gray Flag",
+  "block.supplementaries.flag_gray": "Grey Flag",
+  "block.supplementaries.flag_light_gray": "Light Grey Flag",
   "block.supplementaries.flag_cyan": "Cyan Flag",
   "block.supplementaries.flag_purple": "Purple Flag",
   "block.supplementaries.flag_blue": "Blue Flag",
@@ -570,5 +570,20 @@
   "item.supplementaries.sign_post_rotten_lotr": "Rotten Sign Post",
   "item.supplementaries.sign_post_runewood": "Runewood Sign Post",
   "item.supplementaries.sign_post_archwood": "Archwood Sign Post",
-  "block.supplementaries.gunpowder": "Gunpowder"
+  "block.supplementaries.gunpowder": "Gunpowder",
+
+  "block.supplementaries.banner.dragon.gray": "Grey Dragon Charge",
+  "block.supplementaries.banner.dragon.light_gray": "Light Grey Dragon Charge",
+  "block.supplementaries.candle_holder_gray": "Grey Candle Holder",
+  "block.supplementaries.candle_holder_light_gray": "Light Grey Candle Holder",
+  "block.supplementaries.flag_gray": "Grey Flag",
+  "block.supplementaries.flag_light_gray": "Light Grey Flag",
+  "block.supplementaries.present_gray": "Grey Present",
+  "block.supplementaries.present_light_gray": "Light Gray Present",
+  "block.supplementaries.trapped_present_gray": "Trapped Grey Present",
+  "block.supplementaries.trapped_present_light_gray": "Trapped Light Grey Present",
+  "block.supplementaries.awning_gray": "Grey Awning",
+  "block.supplementaries.awning_light_gray": "Light Grey Awning",
+  "item.supplementaries.bunting_gray": "Grey Bunting",
+  "item.supplementaries.bunting_light_gray": "Light Grey Bunting"
 }
